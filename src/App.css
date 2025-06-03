@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.DiceRoller {
+  background-color: lightgrey;
+  border: 1rem, black;
+  padding: 2rem;
+  border-style: groove inset outset dashed;
+}
+
+select {
+  margin-left: 1rem;
+  margin-left: 1rem;
+}
+
+button {
+  margin-top: 1rem;
+}
